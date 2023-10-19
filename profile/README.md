@@ -4,3 +4,4 @@
 
 - Standalone Applications
 - Management Systems
+- Data Analytics and Business Intelligence
